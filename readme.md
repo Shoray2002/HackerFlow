@@ -23,7 +23,7 @@ You will be given a list of bugs and errors from across the spectrum and you hav
 
 ## How to submit your link?
 
-Just fill this form and mention the bug/error number with your answer link.
+### Just fill **[this](https://forms.gle/3mEfYNVU21kCvwpn9)** form and mention the bug/error number with your answer link.
 
 **Multiple Submissions are allowed.**
 

@@ -28,7 +28,7 @@ Just fill this form and mention the bug/error number with your answer link.
 **Multiple Submissions are allowed.**
 
 ## Pick any bug/error in this repo and stand a chance to win **$50 cash**.
-
+(Extra Points for solving the nameless ones)
 # Event Timeline:
 
 11 AM on 10th April - 11 AM on 12th April, 2022.

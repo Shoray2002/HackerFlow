@@ -10,7 +10,7 @@ The one stop place to find answers to all your questions but finding the correct
 This event aims to test that very skill.
 You will be given a list of bugs and errors from across the spectrum and you have to find the most appropriate Stack Overflow Discussion that fixes a bug or error from that list.
 
-> **IMG**.
+![op96es9026wy](https://user-images.githubusercontent.com/76423272/162497482-c9895f5c-1868-4b8f-bea4-989364914fce.png)
 
 ## Rules for the event
 

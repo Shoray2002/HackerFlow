@@ -30,7 +30,7 @@ You will be given a list of bugs and errors from across the spectrum and you hav
 ## Pick any bug/error in this repo and stand a chance to win **$50 cash**.
 # Event Timeline:
 
-11 AM on 10th April - 11 AM on 12th April, 2022.
+6 PM on 10th April - 6 PM on 12th April, 2022.
 
 # `TIME TO DO WHAT CODERS DO BEST: SOLVE BUGS AND ERRORS*`
 

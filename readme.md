@@ -28,6 +28,8 @@ You will be given a list of bugs and errors from across the spectrum and you hav
 **Multiple Submissions are allowed.**
 
 ## Pick any bug/error in this repo and stand a chance to win **$50 cash**.
+A good one to get started is **[#17](./17.md)**
+
 # Event Timeline:
 
 6 PM on 10th April - 6 PM on 12th April, 2022.
